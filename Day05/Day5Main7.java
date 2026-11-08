@@ -3,7 +3,7 @@ class Day5Main7{
 		int i, j;
 		for(i=1;i<=5;i++){
 			for(j=i;j>=1;j--){
-				System.out.println(j+" ");
+				System.out.print(j+" ");
 			}
 			System.out.println();
 		}
