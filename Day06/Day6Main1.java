@@ -7,7 +7,7 @@ class Day6Main1{
 		for(int i = 0; i<5; i++){
 			arr[i] = sc.nextInt();
 		}
-		System.out.println("The numbers stored in the array are: ")
+		System.out.println("The numbers stored in the array are: ");
 		for(int i = 0; i<5; i++){
 			System.out.println(arr[i]);
 		}
