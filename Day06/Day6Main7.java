@@ -2,10 +2,10 @@ import java.util.Scanner;
 class Day6Main7{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
-		int key = sc.nextInt();
 		System.out.print("Enter the numbers you want: ");
 		int[] arr = new int[5];
 		System.out.println("Enter the key element that you want to search: ");
+		int key = sc.nextInt();
 		for(int i = 0; i<5; i++){
 			arr[i]=sc.nextInt();
 		}
