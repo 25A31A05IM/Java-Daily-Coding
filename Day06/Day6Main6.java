@@ -8,7 +8,7 @@ class Day6Main6{
 			else if(arr[i]%2!=0) odd++;
 			else System.out.println("What the Fck are u doing bro do it properly without giving zero to the array 😒");
 		}
-		System.out.print("Even= "+even);
-		System.out.print("Odd= "+odd);
+		System.out.println("Even= "+even);
+		System.out.println("Odd= "+odd);
 	}
 }
