@@ -6,7 +6,7 @@ class Day6Main7{
 		System.out.println("Enter the key element that you want to search: ");
 		int key = sc.nextInt();
 		System.out.print("Enter the numbers you want: ");
-		for(int i = 0; i<5; i++{
+		for(int i = 0; i<5; i++){
 			arr[i]=sc.nextInt();
 		}
 		System.out.println("The element you are looking for is at the index: ");
