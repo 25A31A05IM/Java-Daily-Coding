@@ -10,7 +10,7 @@ class Day6Main2{
 		}
 		System.out.print("Sum of the given numbers: ");
 		for(int i = 1; i<=5; i++){
-			sum +=a[i];
+			sum +=arr[i];
 		}
 		System.out.print(sum);
 	}
