@@ -8,5 +8,6 @@ class Day6Main8{
 			sum_of_nums +=arr[i];
 			avg = sum_of_nums/arr.length;
 		}
+		System.out.print(avg);
 	}
 }
