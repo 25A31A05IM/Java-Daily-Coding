@@ -8,6 +8,6 @@ class Day6Main3{
 				max=arr[i];
 			}
 		}
-		System.out.print("The largest number from the given array is: "+max);
+		System.out.print(max);
 	}
 }
