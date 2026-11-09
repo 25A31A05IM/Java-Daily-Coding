@@ -6,7 +6,7 @@ class Day6Main8{
 		System.out.println("The average of the numbers in the given array is: ");
 		for(int i = 0; i<5; i++){
 			sum +=arr[i];
-			avg = sum/n;
+			avg = sum/arr.length;
 		}
 	}
 }
