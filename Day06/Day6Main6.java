@@ -6,7 +6,7 @@ class Day6Main6{
 		for(int i=0; i<8; i++){
 			if(arr[i]%2==0) even++;
 			else if(arr[i]%2!=0) odd++;
-			else System.out.println("What the Fck are u doing bro do it properly without giving zero to the array 😒");
+			else System.out.println("What the Fck are u doing bro give some good numbers to the array 😒");
 		}
 		System.out.println("Even= "+even);
 		System.out.print("Odd= "+odd);
