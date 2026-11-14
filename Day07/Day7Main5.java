@@ -4,7 +4,7 @@ class Day7Main5{
 		String s2 = s1.toLowerCase();
 		String s3 = "aeiou";
 		int count = 0;
-		for(int i = 0; i<=s2.length(); i++){
+		for(int i = 0; i<s2.length(); i++){
 			for(int j = 0; j<s3.length(); j++){
 				if(s2.charAt(i) == s3.charAt(j)){
 					System.out.println(s2.charAt(i));
