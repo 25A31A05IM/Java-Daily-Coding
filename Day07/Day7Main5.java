@@ -11,9 +11,9 @@ class Day7Main5{
 					vowels++;
 					break;
 				}
-				else{
-					consonants++;
-				}
+			}
+			else{
+				consonants++;
 			}
 		}
 		System.out.println(vowels);
