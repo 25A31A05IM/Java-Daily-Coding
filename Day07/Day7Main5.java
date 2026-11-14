@@ -16,6 +16,7 @@ class Day7Main5{
 				}
 			}
 		}
-		System.out.println(count);
+		System.out.println(vowels);
+		System.out.println(consonants);
 	}
 }
