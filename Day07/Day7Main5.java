@@ -11,5 +11,6 @@ class Day7Main5{
 				}
 			}
 		}
+		System.out.println(count);
 	}
 }
