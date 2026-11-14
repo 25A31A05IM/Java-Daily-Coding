@@ -9,6 +9,7 @@ class Day7Main5{
 				if(s2.charAt(i) == s3.charAt(j)){
 					System.out.println(s2.charAt(i));
 					count++;
+					break;
 				}
 			}
 		}
