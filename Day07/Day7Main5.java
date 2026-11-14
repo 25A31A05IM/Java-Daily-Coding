@@ -2,8 +2,14 @@ class Day7Main5{
 	public static void main(String[] args){
 		String s1 = "PROGRAMMING";
 		s2 = s1.tolowerCase();
-		for(int i = 0; i<=s.length(); i++){
-			
+		String s3 = "aeiou";
+		int count = 0;
+		for(int i = 0; i<=s2.length(); i++){
+			for(int j = 0; j<=s3.length(); j++){
+				if(s2.charAt(i) == s3.charAt(j)){
+					
+				}
+			}
 		}
 	}
 }
