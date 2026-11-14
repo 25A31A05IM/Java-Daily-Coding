@@ -1,7 +1,7 @@
 class Day7Main5{
 	public static void main(String[] args){
 		String s1 = "PROGRAMMING";
-		String s2 = s1.tolowerCase();
+		String s2 = s1.toLowerCase();
 		String s3 = "aeiou";
 		int count = 0;
 		for(int i = 0; i<=s2.length(); i++){
